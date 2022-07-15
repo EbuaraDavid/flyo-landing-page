@@ -532,26 +532,17 @@ button:hover{
     @media screen and (min-width: 1200px){
         .logo2 img{
            max-width: 100px;
-            margin: 20px 150px;
+            margin: 20px 120px;
         }
     }
-    /* .logo2 img{
-        width: 120px;
-    }
-    @media screen and (min-width: 1200px){
-        .logo2 img{
-            width: 180px;
-            margin-left: 0px;
-        }
-        
-    } */
+
     .foot{
         color: white;
     }
     @media screen and (min-width: 1200px){
         .foot{
             display: flex;
-            margin-left: 80px;
+            margin-left: 50px;
             justify-content: space-around;
         }
     }
@@ -560,12 +551,12 @@ button:hover{
         font-size: 15px;
         line-height: 1.5;
         font-family: 'Raleway', sans-serif;
-        max-width: 300px;
+        max-width: 350px;
         margin: 20px 50px;
     }
     @media screen and (min-width: 1200px){
         .adress{
-            max-width: 320px;
+            max-width: 350px;
             margin-right:0px;
         }
     }
