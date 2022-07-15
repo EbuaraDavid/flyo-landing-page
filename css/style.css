@@ -97,9 +97,11 @@ nav{
 }
 .hero-section{
     background-image: linear-gradient(to bottom, hsl(217, 28%, 15%),  hsl(219, 30%, 18%));
+    margin-bottom: 0px;
 }
 .after-hero-section{
     background-color:hsl(218, 28%, 13%);
+    margin-top: 0px;
 }
 .h-c-b{
     background-image: linear-gradient( to right, hsl(176, 68%, 64%), hsl(198, 60%, 50%));
@@ -427,6 +429,7 @@ button:hover{
        border-radius: 100px;
    }
    .name p{
+      width: fit-content;
       margin: 0px;
       padding: 0px 10px;
    }
@@ -443,7 +446,7 @@ button:hover{
       margin-right: auto;
       background-color: hsl(218, 28%, 13%);
       position: absolute;
-      top: 3025px;
+      top: 2950px;
       z-index: 10;
       left: 20px;
       right: 20px;
