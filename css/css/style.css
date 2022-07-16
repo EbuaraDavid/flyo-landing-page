@@ -47,7 +47,7 @@ nav {
 .contentt {
   background-image: url(../images/bg-curvy-mobile.svg);
   background-repeat: no-repeat;
-  background-position: 0 99.99%;
+  background-position: 0 100%;
   background-size: 100% 48%;
   padding-bottom: 10px;
 }
