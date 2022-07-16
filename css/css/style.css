@@ -49,7 +49,7 @@ nav {
   background-repeat: no-repeat;
   background-position: 0 100%;
   background-size: 100% 48%;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
 }
 .illustration img {
   max-width: 100%;
@@ -107,6 +107,7 @@ nav {
 .after-hero-section {
   background-color: hsl(218, 28%, 13%);
   margin-top: 0px;
+  padding-top: 10px;
 }
 .h-c-b {
   background-image: linear-gradient(
